@@ -1,4 +1,4 @@
-# DUNDUNDUN
+# Sude
 Platformer made in Java. This was made for fun originally, but I plan on expanding it into a much bigger project(i.e multiplayer, competitive ladder for speedruns of certain maps).
 
 #Screenshots
